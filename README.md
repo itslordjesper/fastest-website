@@ -1,6 +1,10 @@
-# fastest-website
-This is the World's fastest website, according to [Pingdom.com](https://tools.pingdom.com/#!/cqUZyC/https://lordjme.github.io/fastest-website/index.html).
-Scoring top grade on [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=sv&url=https%3A%2F%2Flordjme.github.io%2Ffastest-website%2Findex.html).
+# World's Fastest Website!
+
+This is the fastest website on the internet, according to [Pingdom](https://tools.pingdom.com/#!/cqUZyC/https://lordjme.github.io/fastest-website/index.html).
+Scoring 100/100 on [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=sv&url=https%3A%2F%2Flordjme.github.io%2Ffastest-website%2Findex.html).
+
+It does'nt contain much, no CSS, no JS just plain HTML.
+It's a pretty useless website actually.
 
 Pingdom Result:
 
@@ -11,4 +15,4 @@ A   |   35 ms   |   New York City   |   **100%**
 A   |   40 ms   |   San Jose   |   **100%**
 A   |   14 ms   |   Stockholm   |   **100%**
 
-You can take a look at my beautifully crafted website [here](https://lordjme.github.io/fastest-website/index.html)
+Take a look -> https://lordjme.github.io/fastest-website/index.html
