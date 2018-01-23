@@ -12,7 +12,7 @@ Grade   |   Load time   |   Tested from   |   Faster than
 :---: |   ---   |   ---   |   ---
 A   |   15 ms   |   Melbourne   |   **100%**
 A   |   35 ms   |   New York City   |   **100%**
-A   |   40 ms   |   San Jose   |   **100%**
+A   |   38 ms   |   San Jose   |   **100%**
 A   |   14 ms   |   Stockholm   |   **100%**
 
 Take a look -> https://lordjme.github.io/fastest-website/index.html
