@@ -11,4 +11,4 @@ A   |   35 ms   |   New York City   |   **100%**
 A   |   40 ms   |   San Jose   |   **100%**
 A   |   14 ms   |   Stockholm   |   **100%**
 
-You can take a look at my beautifully crafted website [here](https://lordjme.github.com/fastest-website/index.html)
+You can take a look at my beautifully crafted website [here](https://lordjme.github.io/fastest-website/index.html)
