@@ -1,7 +1,6 @@
 # World's Fastest Website!
 
-This is the fastest website on the internet, according to [Pingdom](https://tools.pingdom.com/#!/cqUZyC/https://lordjme.github.io/fastest-website/index.html).
-Scoring 100/100 on [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=sv&url=https%3A%2F%2Flordjme.github.io%2Ffastest-website%2Findex.html).
+This is the fastest website on the internet, according to [Pingdom](https://tools.pingdom.com/#!/cqUZyC/https://lordjme.github.io/fastest-website/index.html). Hosted by Github's super fast servers, Scoring 100/100 on [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=sv&url=https%3A%2F%2Flordjme.github.io%2Ffastest-website%2Findex.html).
 
 It does'nt contain much, no CSS, no JS just plain HTML.
 It's a pretty useless website actually.
